@@ -1,3 +1,3 @@
 # App_Development_01
 ![preview](rating.png)
-![Preview](selling pizza.png)
+![Preview](selling.png)
